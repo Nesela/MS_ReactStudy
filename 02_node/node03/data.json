@@ -1,0 +1,9 @@
+{
+    "name": "hong-gd",
+    "age" : 100,
+    "skills": [
+        "Java",
+        "JavaScript",
+        "React"
+    ]
+}
